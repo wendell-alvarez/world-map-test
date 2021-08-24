@@ -7,9 +7,6 @@
   <meta name="csrf-token" content="{{ csrf_token() }}" />
   <link rel="stylesheet" 
         href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <link rel="stylesheet" 
-        type="text/css" 
-        href="https://cdn.datatables.net/v/bs4/dt-1.10.25/datatables.min.css"/>
   <style>
       html,body {
         height: 100%

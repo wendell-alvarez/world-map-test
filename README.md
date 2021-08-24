@@ -12,7 +12,7 @@
 2. run -> composer install
 3. copy ".env.example" to ".env"
 4. create database "world_map"
-5. edit below from .env
+5. edit .env details: 
 	DB_DATABASE=world_map
 	DB_USERNAME=your_username
 	DB_PASSWORD=your_password
